@@ -1,4 +1,5 @@
  .u-section-1 {
+  background-image: url("images/-min.jpg");
   background-position: 50% 50%;
 }
 
@@ -7,10 +8,10 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 297px;
-  height: 297px;
+  width: 429px;
+  height: 340px;
   background-position: 50% 50%;
-  margin: 226px auto 0 0;
+  margin: 207px auto 0 0;
 }
 
 .u-section-1 .u-text-1 {
@@ -18,37 +19,57 @@
   line-height: 1;
   font-weight: 700;
   text-shadow: 0px -2px 0px rgba(255,255,255,1);
-  margin: 50px 0 -100px;
+  margin: 29px 0 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 900px;
+    min-height: 913px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 328px;
+    height: 260px;
+    margin-top: 320px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: auto;
-    margin-bottom: 50px;
+    margin-top: -7px;
+    margin-bottom: 73px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 750px;
+    min-height: 804px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 263px;
+    height: 208px;
+    margin-top: 332px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: 0;
+    margin-top: -27px;
+    margin-bottom: -9px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 650px;
+    min-height: 813px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 229px;
+    height: 184px;
+    margin-top: 341px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 5.625rem;
+    margin-top: 48px;
   }
 }
 
@@ -58,19 +79,23 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 409px;
+    min-height: 658px;
   }
 
   .u-section-1 .u-image-1 {
-    width: 132px;
-    height: 132px;
+    width: 296px;
+    height: 235px;
+    margin-top: 246px;
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 4.5rem;
+    font-size: 2.25rem;
+    width: auto;
+    margin-top: 91px;
+    margin-bottom: -59px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1));
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/8e9ceff0-8e0b-a65c-b3aa-d14881f4510a.jpg");
   background-position: 0% 50%;
 }
 
