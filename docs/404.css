@@ -1,0 +1,135 @@
+ .u-section-1 {
+  background-image: url("images/-min.jpg");
+  background-position: 100% 0%;
+  background-size: auto 185%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 856px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 800px;
+  min-height: 661px;
+  background-image: none;
+  margin: 59px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 246px;
+  height: 248px;
+  margin: -212px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.6875rem;
+  font-weight: 700;
+  margin: 60px 14px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  margin: 40px auto 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 555px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 706px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 390px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 541px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 862px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 862px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: -10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 201px;
+    height: 201px;
+    margin-top: -178px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 73px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 744px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 744px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: -38px;
+    margin-left: -23px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    align-self: center;
+  }
+}
