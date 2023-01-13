@@ -36628,8 +36628,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {
-  background-image: url("images/ae67db2b-b96c-425d-8b7c-b59cfae2e27f.jpg");
-  background-position: 50% 67.78%;
+  background-image: url("images/-min.jpg");
+  background-position: 50% 65.53%;
 }
 
 .u-header .u-sheet-1 {
@@ -36701,7 +36701,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
    .u-header {
-    background-position: 50% 100%;
+    background-position: 50% 50%;
   }
 
   .u-header .u-sheet-1 {
