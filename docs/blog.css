@@ -156,46 +156,6 @@
   margin: 17px 0 0;
 }
 
-.u-section-1 .u-repeater-item-8 {
-  box-shadow: 5px 5px 8px 0 rgba(0,0,0,0.15);
-}
-
-.u-section-1 .u-container-layout-8 {
-  padding: 30px 20px;
-}
-
-.u-section-1 .u-image-8 {
-  height: 231px;
-  width: 325px;
-  background-image: url("images/Economics_of_heatwaves.png");
-  background-position: 50% 50%;
-  margin: 0 auto;
-}
-
-.u-section-1 .u-text-9 {
-  margin: 17px 0 0;
-}
-
-.u-section-1 .u-repeater-item-9 {
-  box-shadow: 5px 5px 8px 0 rgba(0,0,0,0.15);
-}
-
-.u-section-1 .u-container-layout-9 {
-  padding: 30px 20px;
-}
-
-.u-section-1 .u-image-9 {
-  height: 231px;
-  width: 325px;
-  background-image: url("images/WomanPlayingBeachVolleyball.jpg");
-  background-position: 50% 50%;
-  margin: 0 auto;
-}
-
-.u-section-1 .u-text-10 {
-  margin: 17px 0 0;
-}
-
 @media (max-width: 1199px) {
   .u-section-1 .u-blog-1 {
     margin-bottom: 50px;
@@ -234,20 +194,12 @@
   .u-section-1 .u-image-7 {
     width: 258px;
   }
-
-  .u-section-1 .u-image-8 {
-    width: 258px;
-  }
-
-  .u-section-1 .u-image-9 {
-    width: 258px;
-  }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-repeater-1 {
     grid-template-columns: calc(50% - 11px) calc(50% - 11px);
-    min-height: 592px;
+    min-height: 473px;
   }
 
   .u-section-1 .u-image-1 {
@@ -275,14 +227,6 @@
   }
 
   .u-section-1 .u-image-7 {
-    width: 309px;
-  }
-
-  .u-section-1 .u-image-8 {
-    width: 309px;
-  }
-
-  .u-section-1 .u-image-9 {
     width: 309px;
   }
 }
@@ -352,24 +296,6 @@
   }
 
   .u-section-1 .u-image-7 {
-    width: 480px;
-  }
-
-  .u-section-1 .u-container-layout-8 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-1 .u-image-8 {
-    width: 480px;
-  }
-
-  .u-section-1 .u-container-layout-9 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-1 .u-image-9 {
     width: 480px;
   }
 }
@@ -445,26 +371,6 @@
   }
 
   .u-section-1 .u-image-7 {
-    height: 154px;
-    width: 300px;
-  }
-
-  .u-section-1 .u-container-layout-8 {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-
-  .u-section-1 .u-image-8 {
-    height: 154px;
-    width: 300px;
-  }
-
-  .u-section-1 .u-container-layout-9 {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-
-  .u-section-1 .u-image-9 {
     height: 154px;
     width: 300px;
   }
